@@ -2,7 +2,7 @@
 
 
 # Proyecto 1 | Bases de Datos Distribuidas 
-## Modernizando la Gestión de Datos para Bibliotecas Pequeñas
+## Modernizando la Gestión de Datos para una Biblioteca Pequeña
 
 ### Introducción
 
