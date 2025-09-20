@@ -44,3 +44,7 @@ El objetivo es diseñar la arquitectura de datos para un sistema de biblioteca q
    
 5. **Justificación Final**:
    - La combinación de bases de datos relacionales y MongoDB permite gestionar eficientemente tanto datos estructurados como no estructurados, maximizando la flexibilidad y escalabilidad.
+  
+<img width="500" height="212" alt="biblioteca_API" src="https://github.com/user-attachments/assets/1d613f96-cb07-49f6-8519-b1a89bc5bedb" />
+
+
