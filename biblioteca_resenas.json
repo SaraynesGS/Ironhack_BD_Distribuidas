@@ -1,0 +1,55 @@
+[
+    {
+        "id_resena": "r1",
+        "id_libro": 1,
+        "titulo_libro": "Cien años de soledad",
+        "id_usuario": 1,
+        "nombre_usuario": "Ana Martínez",
+        "fecha_resena": "2023-09-30",
+        "calificacion": 5,
+        "texto_resena": "Una obra impresionante que captura la esencia del realismo mágico.",
+        "comentarios": [
+            {
+                "id_comentario": "c1",
+                "nombre_comentarista": "Carlos García",
+                "fecha_comentario": "2023-10-01",
+                "texto_comentario": "Totalmente de acuerdo, es una lectura obligada."
+            }
+        ],
+        "votos_utiles": 15,
+        "votos_no_utiles": 2
+    },
+    {
+        "id_resena": "r2",
+        "id_libro": 3,
+        "titulo_libro": "1984",
+        "id_usuario": 2,
+        "nombre_usuario": "Carlos García",
+        "fecha_resena": "2023-10-02",
+        "calificacion": 4,
+        "texto_resena": "Un libro inquietante que invita a reflexionar sobre el poder y el control.",
+        "comentarios": [],
+        "votos_utiles": 20,
+        "votos_no_utiles": 1
+    },
+    {
+        "id_resena": "r3",
+        "id_libro": 5,
+        "titulo_libro": "Harry Potter y la piedra filosofal",
+        "id_usuario": 3,
+        "nombre_usuario": "Lucía Hernández",
+        "fecha_resena": "2023-10-03",
+        "calificacion": 5,
+        "texto_resena": "Un libro mágico que despierta la imaginación y la aventura.",
+        "comentarios": [
+            {
+                "id_comentario": "c2",
+                "nombre_comentarista": "Ana Martínez",
+                "fecha_comentario": "2023-10-04",
+                "texto_comentario": "¡Siempre he querido recibir mi carta de Hogwarts!"
+            }
+        ],
+        "votos_utiles": 25,
+        "votos_no_utiles": 0
+    }
+]
